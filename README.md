@@ -1,6 +1,6 @@
 # IT120-Final-Project
 
-# MADAM - Mobile App for Animal Detection and Monitoring
+# Farm Animal Identifier - Mobile App for Animal Detection and Monitoring
 
 ## 📱 App Overview
 MADAM is a Flutter-based mobile application designed for animal detection and wildlife monitoring. The app provides a seamless experience for capturing, identifying, and analyzing various animal species with comprehensive analytics.
